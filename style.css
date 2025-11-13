@@ -1,0 +1,39 @@
+
+            
+            h2 {
+                color:rgb(181, 56, 75);
+            }
+            
+            body {background-color:rgb(184, 209, 240);
+            }
+            
+#background-info {color: darkblue;
+}
+
+#Importance-head-total {border: 1px solid rgba(173, 122, 122, 0.455);
+width: 70%;
+margin-top: 15px;
+padding: 15px;
+}
+
+#container {border: 1.5px solid  rgba(173, 122, 122, 0.455);
+margin: 3%;
+border-top: 20px solid rgba(173, 122, 122, 0.455);
+padding: 1%;
+}
+
+h2 {
+  font-family: Georgia, serif;
+   background-color: rgba(139, 135, 178, 0.455) ;
+}
+
+
+h1 {
+  font-family: Georgia, serif;
+   background-color: rgba(139, 135, 178, 0.455) ;
+}
+
+h4 {
+  font-family: Georgia, serif;
+}
+
